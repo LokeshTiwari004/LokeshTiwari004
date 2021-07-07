@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Lokesh Tiwari
+- ![](https://komarev.com/ghpvc/?username=LokeshTiwari004
+/&color=dd6387&style=plastic)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
